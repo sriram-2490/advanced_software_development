@@ -1,4 +1,3 @@
-# advanced_software_development
 # Ekart Online Grocery Shopping Platform
 
 This project is a design for the **Ekart** online grocery shopping platform. The design includes a login page, home page, product selection, cart, payment, and a final congratulations page. The entire flow is created using **Figma** to ensure a user-friendly and seamless experience for users.
